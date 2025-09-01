@@ -1,2 +1,2 @@
 # Ninad-code
-Hello Everyone this is my first Repo.
+Hello Everyone this is my first Repository.
